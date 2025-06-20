@@ -1,4 +1,4 @@
-// print name n times using recuesion 
+/* 
 public class basics {
     public static void main(String[] args) {
        int n=5;
@@ -75,3 +75,4 @@ public class index{
         System.out.println(a);
     }
 }
+    */
