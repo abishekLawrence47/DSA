@@ -4,3 +4,4 @@ public class sum_of_n_numbers {
         System.out.println(n);
     }
 }
+                  
